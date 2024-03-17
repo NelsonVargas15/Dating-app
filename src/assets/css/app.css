@@ -1,0 +1,41 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+html {
+  height: 100vh;
+}
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  overflow: hidden;
+}
+#root {
+  height: 100%;
+  font-size: 14px;
+}
+#root .rs-container {
+  height: 100%;
+}
+a {
+  color: unset !important;
+  text-decoration: none !important;
+}
+a:hover {
+  color: unset;
+  text-decoration: none;
+}
+aside {
+  height: 100%;
+  overflow: auto;
+}
+input[readonly] {
+  cursor: default;
+}
+.text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
