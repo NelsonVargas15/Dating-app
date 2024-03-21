@@ -1,8 +1,18 @@
 # React + Vite
+<h1>Extensiones Visual Studio Code (recomendadas)</h1>
+<ul>
+   
+    <li>Material Icon Theme</li>
+    <li>Error Lens</li>
+    <li>Auto Close Tag</li>
+    <li>vscode-styled-components</li>
+</ul>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h1>Extensiones Visual Studio Code (obligatorias)</h1>
+<ul>
+   <li>Prettier - Code formatter</li>
+    <li>Python Debugger</li>
+    <li>GitLens — Git supercharged</li>
+    <li>Python</li>
+    <li>Pylance</li>
+</ul>
