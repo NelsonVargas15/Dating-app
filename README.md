@@ -29,16 +29,4 @@ You must install these programs on your computer:
 - Python
 - Pylance
 
-<h1>Extensiones Visual Studio Code (obligatorias)</h1>
-<ul>
-   <li>Prettier - Code formatter</li>
-    <li><ul>
-    <li>Material Icon Theme</li>
-    <li>Error Lens</li>
-    <li>Auto Close Tag</li>
-    <li>vscode-styled-components</li>
-</ul> Debugger</li>
-    <li>GitLens — Git supercharged</li>
-    <li>Python</li>
-    <li>Pylance</li>
-</ul>
+
