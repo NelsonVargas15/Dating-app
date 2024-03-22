@@ -1,8 +1,32 @@
-# React + Vite
+# Dating apps
+<p style="background-color: yellow; color: black;">Guys, these are the necessary extensions and downloads for the project. Please read it carefully.</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Documentation
 
-Currently, two official plugins are available:
+- [npm Documentation](https://docs.npmjs.com/)
+- [React Documentation](https://legacy.reactjs.org/docs/getting-started.html)
+- [React Suite Documentation](https://rsuitejs.com/)
+- [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) - Important: this is how commits will be made
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Necessary Downloads
+
+You must install these programs on your computer:
+- Python
+- node.js
+
+## Recommended Visual Studio Code Extensions
+
+- Material Icon Theme
+- Error Lens
+- Auto Close Tag
+- vscode-styled-components
+
+## Mandatory Visual Studio Code Extensions
+
+- Prettier - Code formatter
+- Python Debugger
+- GitLens — Git supercharged
+- Python
+- Pylance
+
+
