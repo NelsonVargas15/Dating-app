@@ -1,6 +1,6 @@
 import { Outlet } from "react-router-dom";
 import { Container, Content } from "rsuite";
-import CustomNavbar from "../CustomerNavbar";
+import CustomNavbar from "../../components/CustomerNavbar";
 
 const FullLayout = () => {
   return (
